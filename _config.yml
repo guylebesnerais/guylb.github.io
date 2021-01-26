@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaston Lenczner"
+title                    : "Guy Le Besnerais"
 title_separator          : "-"
-name                     : &name "Gaston Lenczner"
-description              : &description "PhD student at Alteia and ONERA"
-url                      :  https://gaslen.github.io #"http://127.0.0.1:4000/" #https://gaslen.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Guy Le Besnerais"
+description              : &description "Senior Scientist at ONERA"
+url                      :  https://guylebesnerais.github.io #"http://127.0.0.1:4000/" #https://guylebesnerais.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gaslen/gaslen.github.io"
+repository               : "guylebesnerais/guylebesnerais.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             :  "Gaston Lenczner"
+  name             :  "Guy Le Besnerais"
   avatar           : "profil3.png"
-  bio              : "PhD student at Alteia and ONERA"
-  location         : "Paris, France"
+  bio              : "Senior Scientist at ONERA"
+  location         : "Palaiseau, France"
   employer         : 
   pubmed           : 
-  googlescholar    : "citations?user=BC81wnUAAAAJ&hl=fr"
-  email            : "gaston.lenczner@alteia.com"
+  googlescholar    : "citations?user=r8V306wAAAAJ&hl=fr"
+  email            : "guy.le_besnerais@onera.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gaslen"
+  github           : "guylebesnerais"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "gaston-l-0873a8136"
-  orcid            : "http://orcid.org/0000-0002-4697-8894"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCFyhzZA455feE3x9nldmj0Q"
+  youtube          : 
   wikipedia        :
   personal         : 
 
