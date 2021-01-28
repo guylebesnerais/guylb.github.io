@@ -9,27 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* **2017-Present: Head of IVA Unit**, Information Processing and Systems Dept (DTIS), ONERA
+  * Image, Vision, leArning
+
+* **1994-2017: Research Engineer**, ONERA
+
 Education
 ======
 * **2008**: "Habilitation à diriger les Recherches" at Université Paris-Saclay (ED STIC)
 * **1993**: Ph.D in signal and image processing from Université Paris-Sud, Orsay
 * **1989**: ENSTA
 
-
-Work experience
-======
-* **2017-Present: Head of IVA Unit**, Information Processing and Systems Dept (DTIS), ONERA
-  * Image, Vision, leArning
-
-* **1994: Research Engineer**, ONERA
     
 <!-- Main skills
 ======
 * Programming: Python, Pytorch, OpenCV, PyQGIS, R
 * Tools: Git, Docker, LaTeX, Linux
 * Languages: French, English -->
-
- 
 
 Teaching
 ======
