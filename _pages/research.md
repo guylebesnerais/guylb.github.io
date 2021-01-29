@@ -27,13 +27,26 @@ author_profile: true
 };
 </script>
 
+Most of my research contributions are now related to the work of PhD students I co-advise.
+
 # Projects
+
+![MFOF](/images/disca.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"} 
+###### Learning methods for multiframe Optical Flow Estimation
+This work is conducted by Pierre Godet, who defended its PhD on friday, 22th january 2021, in collaboration with Alexandre Boulc'h at Valeo.ai ([Alex](https://www.boulch.eu/)) and Aurélien Plyer, ONERA [Aurelien](https://github.com/aplyer)
+<!-- <normal> -->
+<!-- <p style="text-align: right;"> -->
+<br />
+    <a href="https://arxiv.org/pdf/2007.05481" style="color:page.header.overlay_color">[PDF]</a>
+    <a href="https://github.com/pgodet/star_flow" style="color:page.header.overlay_color">[GitHub]</a>
+<!-- </p> -->
+<!-- </normal> -->
 
 
 # Students
 
 ### Pierre Godet
-PhD Defense friday, 22th january 2021
+Pierre PhD Defense friday, 22th january 2021
 
 ### Gaston Lenczner
 
