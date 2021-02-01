@@ -13,7 +13,7 @@ name                     : &name "IVA DTIS"
 description              : &description "A research unit of ONERA"
 url                      :  https://guylebesnerais.github.io #"http://127.0.0.1:4000/" #https://guylebesnerais.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "guy.lebesnerais/guy.lebesnerais.github.io"
+repository               : "guylebesnerais/guylebesnerais.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
