@@ -1,7 +1,7 @@
 ---
 layout: "single"
-title: ""
-permalink: "/research/"
+title: "Projects"
+permalink: "/projects/"
 author_profile: true
 
 ---
@@ -27,8 +27,6 @@ author_profile: true
 };
 </script>
 
-Most of my research contributions are now related to the work of PhD students I co-advise.
-
 # Projects
 
 ![MFOF](/images/SF.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"} 
@@ -43,9 +41,6 @@ Most of my research contributions are now related to the work of PhD students I 
 <!-- </normal> -->
 
 
-# Students
-
-### Gaston Lenczner
 
 
 <!-- ------

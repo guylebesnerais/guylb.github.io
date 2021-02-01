@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About us"
+excerpt: "About us"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a senior scientist at [ONERA (DTIS/IVA)](https://www.onera.fr/).
 
-My work is about low-level vision, video processing and geometric computer vision with applications to image-based measurements, embedded vision for robotics, video processing, and remote sensing.
- 
+Welcome to IVA’s website !
+
+Image, Vision and leArning (IVA) is part of the Information Processing and System Department (DTIS) at the French Aerospace Lab, ONERA. Our activities concern data inversion, geometric vision, multimodal image interpretation and artificial intelligence with applications to image-based measurement in experimental physics, sensor / processing co-design, embedded perception for robotics, remote sensing data interpretation.
+
+Here you will find published material resulting from our research. For all other aspects of our activities, please consult the ONERA website: www.onera.fr.
