@@ -8,9 +8,9 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/largeImage.jpg
-  caption: "Photo: Ohlala magnifique"
-excerpt: "A research team at ONERA<br><br>"
+  overlay_image: /images/onera-france.jpg
+  caption: "Photo: rapport annuel ONERA"
+excerpt: "A research team in Palaiseau (France)<br><br>"
 ---
 
 
