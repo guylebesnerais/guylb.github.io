@@ -53,7 +53,6 @@ author_profile: true
 # Past Students
 
 * Soufiane Ait-Tilat
-* [Rodrigo Caye Daudt](https://rcdaudt.github.io/)
-Now scientific assistant at ETH Zürich’s EcoVision Lab
+* [Rodrigo Caye Daudt](https://rcdaudt.github.io/): now scientific assistant at ETH Zürich’s [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html)
 * Rodolphe Dubois
-* Pierre Godet: Now with DAMAE Medical (Orsay)
+* Pierre Godet: now with [DAMAE Medical](https://damae-medical.com/) (Paris)
