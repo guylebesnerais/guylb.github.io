@@ -8,11 +8,11 @@ author_profile: true
 
 # Permanent staff
 
-### Alexandre Alakian
-### Anne Beaupère
-### Anthelme Bernard-Brunel
-### Frédéric Champagnat
-### [Adrien Chan-Hon-Tong](https://www.onera.fr/fr/staff/adrien-chan-hon-tong)
+* Alexandre Alakian
+* Anne Beaupère
+* Anthelme Bernard-Brunel
+* Frédéric Champagnat
+* [Adrien Chan-Hon-Tong](https://www.onera.fr/fr/staff/adrien-chan-hon-tong)
 ### Philippe Cornic
 ### Alexandre Eudes
 ### Pierre Fournier
