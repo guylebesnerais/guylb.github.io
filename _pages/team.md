@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-# Permanent staff
+## Permanent staff
 
 * Alexandre Alakian
 * Anne Beaupère
@@ -27,7 +27,7 @@ author_profile: true
 * [Flora Weissgerber](https://flora.weissgerber.fr/)
 
 
-# Students
+## Students
 
 * Benjamin Buat
 * Javiera Castillo Navarro
@@ -43,14 +43,14 @@ author_profile: true
 * Guillaume Vaudaux-Ruth
 
 
-# Co-advised Students
+## Co-advised Students
 
 * Magdeleine Airiau
 * Laurane Charrier
 * Arthur Vervinck
 
 
-# Past Students
+## Past Students
 
 * Soufiane Ait-Tilat
 * [Rodrigo Caye Daudt](https://rcdaudt.github.io/): now scientific assistant at ETH Zürich’s [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html)
