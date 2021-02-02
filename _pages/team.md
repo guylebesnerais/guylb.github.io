@@ -8,39 +8,41 @@ author_profile: true
 
 # Permanent staff
 
-* Alexandre Alakian
-* Anne Beaupère
+* Alexandre Alakian | * Elise Koeniguer
+* Anne Beaupère | * Alain Michel
+
+# Others
 * Anthelme Bernard-Brunel
 * Frédéric Champagnat
 * [Adrien Chan-Hon-Tong](https://www.onera.fr/fr/staff/adrien-chan-hon-tong)
-### Philippe Cornic
-### Alexandre Eudes
-### Pierre Fournier
-### [Stéphane Herbin](https://stepherbin.github.io/)
-### Elise Koeniguer
-### Alain Michel
-### Julien Moras
-### [Aurélien Plyer](https://github.com/aplyer)
-### Martial Sanfourche
-### Patrick Secchi
-### Pauline Trouvé-Peloux
-### [Flora Weissgerber](https://flora.weissgerber.fr/)
+* Philippe Cornic
+* Alexandre Eudes
+* Pierre Fournier
+* [Stéphane Herbin](https://stepherbin.github.io/)
+* Elise Koeniguer
+* Alain Michel
+* Julien Moras
+* [Aurélien Plyer](https://github.com/aplyer)
+* Martial Sanfourche
+* Patrick Secchi
+* Pauline Trouvé-Peloux
+* [Flora Weissgerber](https://flora.weissgerber.fr/)
 
 
 # Students
 
-### Benjamin Buat
-### Javiera Castillo Navarro
-### Maxime Chareyre
-### Thomas Di Martino
-### Simon Erdmann
-### William Grisons 
-### Alexis Lechat
-### [Gaston Lenczner](https://gaslen.github.io/)
-### Rémy Leroy
-### Nathan Letheule
-### Antoine Manier
-### Guillaume Vaudaux-Ruth
+* Benjamin Buat
+* Javiera Castillo Navarro
+* Maxime Chareyre
+* Thomas Di Martino
+* Simon Erdmann
+* William Grisons 
+* Alexis Lechat
+* [Gaston Lenczner](https://gaslen.github.io/)
+* Rémy Leroy
+* Nathan Letheule
+* Antoine Manier
+* Guillaume Vaudaux-Ruth
 
 
 # Co-advised Students
