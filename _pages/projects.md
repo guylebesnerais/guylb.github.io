@@ -32,7 +32,7 @@ author_profile: true
 ![MFOF](/images/SF.png){: style="float: left; margin-right: 1em;height: 300px; margin-top: 1.5em;width: 450px"} 
 ### Learning methods for multiframe Optical Flow Estimation
 #### Work by Pierre Godet, who defended its PhD on friday, 22th january 2021, in collaboration with [Alexandre Boulc'h](https://www.boulch.eu/) at Valeo.ai and [Aurélien Plyer](https://github.com/aplyer) ONERA.
-Pierre first derived a multiframe Lucas-Kanade method based on temporal models identified by PCA for PIV application. Turning towards deep learning approaches, he proposed "STaRFlow" a multiframe optical flow estimation relying on a spatio-temporal recurrent cell with occultation handling. STaRFlow is among state-of-the-art methods on Kitti and Sintel benchmark and shows remarkable generalization capabilities to videos in real contexts. 
+
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
@@ -40,6 +40,8 @@ Pierre first derived a multiframe Lucas-Kanade method based on temporal models i
     <a href="https://github.com/pgodet/star_flow" style="color:page.header.overlay_color">[GitHub]</a>
 </p>
 <!-- </normal> -->
+
+Pierre first derived a multiframe Lucas-Kanade method based on temporal models identified by PCA for PIV application. Turning towards deep learning approaches, he proposed "STaRFlow" a multiframe optical flow estimation relying on a spatio-temporal recurrent cell with occultation handling. STaRFlow is among state-of-the-art methods on Kitti and Sintel benchmark and shows remarkable generalization capabilities to videos in real contexts. 
 
 
 
