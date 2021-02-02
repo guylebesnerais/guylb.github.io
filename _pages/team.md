@@ -8,9 +8,9 @@ author_profile: true
 
 # Permanent staff
 
-### Alexandre Alakian
-### Anne Beaupère
-### Anthelme Bernard-Brunel
+#### Alexandre Alakian
+#### Anne Beaupère
+#### Anthelme Bernard-Brunel
 ### Frédéric Champagnat
 ### [Adrien Chan-Hon-Tong](https://www.onera.fr/fr/staff/adrien-chan-hon-tong)
 ### Philippe Cornic
@@ -50,9 +50,9 @@ author_profile: true
 
 # Past Students
 
-### Soufiane Ait-Tilat
-### [Rodrigo Caye Daudt](https://rcdaudt.github.io/)
+#### Soufiane Ait-Tilat
+#### [Rodrigo Caye Daudt](https://rcdaudt.github.io/)
 Now scientific assistant at ETH Zürich’s EcoVision Lab
-### Rodolphe Dubois
-### Pierre Godet
+#### Rodolphe Dubois
+#### Pierre Godet
 Now with DAMAE Medical (Orsay)
