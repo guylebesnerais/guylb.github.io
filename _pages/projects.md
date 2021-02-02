@@ -27,7 +27,7 @@ author_profile: true
 };
 </script>
 
-# Projects
+## Geometric Vision and Learning
 
 ![MFOF](/images/SF.png){: style="float: left; margin-right: 1em;height: 300px; margin-top: 1.5em;width: 450px"} 
 ### Learning methods for multiframe Optical Flow Estimation
@@ -38,7 +38,7 @@ Pierre first derived a multiframe Lucas-Kanade method based on temporal models i
 <br />
     <a href="https://arxiv.org/pdf/2007.05481" style="color:page.header.overlay_color">[PDF]</a>
     <a href="https://github.com/pgodet/star_flow" style="color:page.header.overlay_color">[GitHub]</a>
-</p> -->
+</p>
 <!-- </normal> -->
 
 
