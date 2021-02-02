@@ -9,7 +9,7 @@ redirect_from:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/SF.png
+  overlay_image: /images/trinity.jpg
   caption: "Photo: Pas top"
 excerpt: "A research team at ONERA<br><br>"
 ---
