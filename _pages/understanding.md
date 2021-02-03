@@ -32,8 +32,8 @@ author_profile: true
 ### MiniFrance: a database for semi-supervised learning in remote sensing
 #### Javiera Castillo Navarro, Bertrand Le Saux (ESA), Sébastien Lefèvre (UBS/INRIA)
 
-![MFOF](/images/miniF.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
-We propose MiniFrance... 
+![MiniF](/images/miniF.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
+We propose MiniFrance a Remote Sensing Database dedicated to semi-supervised learning 
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
