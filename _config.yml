@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IVA DTIS"
+title                    : "Guy Le Besnerais"
 title_separator          : "-"
-name                     : &name "IVA DTIS"
-description              : &description "A research unit of ONERA"
+name                     : &name "Guy Le Besnerais"
+description              : &description "Senior Scientist at ONERA"
 url                      :  https://guylebesnerais.github.io #"http://127.0.0.1:4000/" #https://guylebesnerais.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guylebesnerais/guylebesnerais.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Image Vision leArning"
-  avatar           : "sigleIVA.png"
-  bio              : "Dept Information Processing & Systems, ONERA"
+  name             :  "Guy Le Besnerais"
+  avatar           : "profil3.png"
+  bio              : "Senior Scientist at ONERA"
   location         : "Palaiseau, France"
   employer         : 
   pubmed           : 
-  googlescholar    : 
-  email            : 
+  googlescholar    : "citations?user=r8V306wAAAAJ&hl=fr"
+  email            : "guy.le_besnerais@onera.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :

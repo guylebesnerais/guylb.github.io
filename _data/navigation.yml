@@ -1,17 +1,8 @@
 # main links links
 main:
-  - title: "Team"
-    url: /team/
-    
-  - title: "Measure"
-    url: /measure/  
-    
-  - title: "Robotics"
-    url: /robotics/
-    
-  - title: "Understanding"
-    url: /understanding/
-    
-  - title: "AI"
-    url: /ai/
+  - title: "Research"
+    url: /research/  
+
+  - title: "CV"
+    url: /cv/
 
