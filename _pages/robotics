@@ -32,7 +32,7 @@ author_profile: true
 #### Maxime Ferrera, Alexandre Eudes, Julien Moras, Martial Sanfourche and Guy Le Besnerais
 
 ![OV2SLAM](/images/OV2SLAM1.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
-We propose a state-of-the-art Visual SLAM for real-time applications...
+OV2SLAM is a state-of-the-art Visual SLAM for real-time applications...
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
