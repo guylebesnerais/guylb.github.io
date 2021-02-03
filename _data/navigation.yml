@@ -6,11 +6,11 @@ main:
   - title: "Measure"
     url: /measure/  
     
-  - title: "Autonomy"
-    url: /autonomy/
+  - title: "Robotics"
+    url: /robotics/
     
-  - title: "Interpretation"
-    url: /interpretation/
+  - title: "Understanding"
+    url: /understanding/
     
   - title: "AI"
     url: /ai/
