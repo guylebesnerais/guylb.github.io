@@ -1,7 +1,7 @@
 ---
 layout: "single"
-title: "Projects"
-permalink: "/projects/"
+title: "Measure"
+permalink: "/measure/"
 author_profile: true
 
 ---
