@@ -3,9 +3,15 @@ main:
   - title: "Team"
     url: /team/  
 
-  - title: "Projects"
-    url: /projects/  
+  - title: "Measure"
+    url: /measure/  
 
-  - title: "Softwares"
-    url: /softwares/
+  - title: "Autonomy"
+    url: /autonomy/
+    
+  - title: "Interpretation"
+    url: /Interpretation/
+    
+ - title: "AI"
+    url: /ai/
 
