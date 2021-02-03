@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "Team"
-    url: /team/  
-
+    url: /team/
+    
   - title: "Measure"
     url: /measure/  
-
+    
   - title: "Autonomy"
     url: /autonomy/
     
   - title: "Interpretation"
     url: /interpretation/
- 
- - title: "AI"
-   url: /ai/
+    
+  - title: "AI"
+    url: /ai/
 
